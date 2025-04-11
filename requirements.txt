@@ -1,5 +1,6 @@
 streamlit
-openai
-pandas
 beautifulsoup4
 requests
+pandas
+openai
+
